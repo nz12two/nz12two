@@ -7,6 +7,8 @@ Administro um servidor de Minecraft, construo sites e automatizo o que dá. Curi
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [AntiXray](https://github.com/nz12two/antixray) | Detecção de x-ray para Paper 1.21.4: 19+ detectores independentes, engine de risco temporal e punição por estágios | Java |
+| [EmpresasMundo](https://github.com/nz12two/empresas-mundo) | Simulação de empresas de entrega competindo por fitness — cada uma é um agente com rede neural recorrente própria, disputando rotas num grafo do OpenStreetMap | Python, FastAPI |
+| [API Directory](https://github.com/nz12two/api-directory) | Catálogo de APIs públicas gratuitas com auto-atualização, busca, filtros e favoritos | HTML, CSS, JavaScript |
 | [OpenDex](https://github.com/nz12two/opendex) | Catálogo e documentação do ecossistema OpenCode, com feed, ranking e 122 repositórios reais. [Acesse o site](https://nz12two.github.io/opendex) | Astro, React, TypeScript |
 | [portfolio](https://github.com/nz12two/portfolio) | Meu portfólio pessoal | HTML, CSS |
 
